@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choetiiha.nw3.dk/sitemap.xml
